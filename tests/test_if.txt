@@ -1,0 +1,10 @@
+HAI
+I HAS A LABEL ITZ WIN
+O RLY? YA RLY
+ VISIBLE "hello world" MKAY?
+ MEBBE label
+    I HAS A LABEL1 ITZ WIN
+ NO WAI
+    VISIBLE "uiiiiii" MKAY?
+OIC
+KTHXBYE

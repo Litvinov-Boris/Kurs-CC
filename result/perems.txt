@@ -1,0 +1,2 @@
+NUMBAR	LABEL	global
+NUMBAR	LABEL11	global
